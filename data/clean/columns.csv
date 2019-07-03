@@ -1,0 +1,81 @@
+Id,id
+PID,pid
+MS SubClass,lot_subclass
+MS Zoning,lot_zone
+Lot Frontage,lot_frontage
+Lot Area,lot_area
+Street,access_road
+Alley,access_alley
+Lot Shape,lot_shape
+Land Contour,land_contour
+Utilities,utilities_type
+Lot Config,lot_config
+Land Slope,land_slope
+Neighborhood,neighborhood
+Condition 1,cond_1
+Condition 2,cond_2
+Bldg Type,house_type
+House Style,house_style
+Overall Qual,house_qual
+Overall Cond,house_cond
+Year Built,year_built
+Year Remod/Add,year_remodel
+Roof Style,roof_style
+Roof Matl,roof_material
+Exterior 1st,exterior_type1
+Exterior 2nd,exterior_type2
+Mas Vnr Type,wall_type
+Mas Vnr Area,wall_area
+Exter Qual,exterior_qual
+Exter Cond,exterior_cond
+Foundation,foundation_type
+Bsmt Qual,bsmt_qual
+Bsmt Cond,bsmt_cond
+Bsmt Exposure,bsmt_area
+BsmtFin Type 1,bsmt_type1_score
+BsmtFin SF 1,bsmt_type1_area
+BsmtFin Type 2,bsmt_type2_score
+BsmtFin SF 2,bsmt_type2_area
+Bsmt Unf SF,bsmt_unfinish_area
+Total Bsmt SF,bsmt_total_area
+Heating,heating_type
+Heating QC,heating_cond
+Central Air,central_aircond
+Electrical,electrical_type
+1st Flr SF,floor_1_area
+2nd Flr SF,floor_2_area
+Low Qual Fin SF,floor_lowqual_total_area
+Gr Liv Area,ground_total_area
+Bsmt Full Bath,bath_full_bsmt_num
+Bsmt Half Bath,bath_half_bsmt_num
+Full Bath,bath_full_bsmt_num
+Half Bath,bath_full_ground_num
+Bedroom AbvGr,bath_half_ground_num
+Kitchen AbvGr,kitchen_num
+Kitchen Qual,kitchen_qual
+TotRms AbvGrd,rooms_num
+Functional,house_fn
+Fireplaces,fireplace_num
+Fireplace Qu,fireplace_score
+Garage Type,garage_type
+Garage Yr Blt,garage_year
+Garage Finish,garage_finish
+Garage Cars,garage_car_num
+Garage Area,garage_area
+Garage Qual,garage_qual
+Garage Cond,garage_cond
+Paved Drive,driveway_type
+Wood Deck SF,wooddeck_area
+Open Porch SF,porch_open_area
+Enclosed Porch,porch_enclosed_area
+3Ssn Porch,porch_3season_area
+Screen Porch,porch_screen_area
+Pool Area,pool_area
+Pool QC,pool_qual
+Fence,fence_num
+Misc Feature,misc_feature
+Misc Val,misc_value
+Mo Sold,sold_month
+Yr Sold,sold_year
+Sale Type,sale_type
+SalePrice,sale_price
