@@ -1,0 +1,15 @@
+,0
+0,pool_qual
+1,exterior_qual
+2,exterior_cond
+3,bsmt_qual
+4,bsmt_cond
+5,heating_cond
+6,kitchen_qual
+7,fireplace_score
+8,garage_qual
+9,garage_cond
+10,bsmt_type1_score
+11,bsmt_type2_score
+12,house_qual
+13,house_cond
