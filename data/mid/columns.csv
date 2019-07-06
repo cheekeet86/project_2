@@ -72,7 +72,7 @@ Enclosed Porch,porch_enclosed_area
 Screen Porch,porch_screen_area
 Pool Area,pool_area
 Pool QC,pool_qual
-Fence,fence_num
+Fence,fence_qual
 Misc Feature,misc_feature
 Misc Val,misc_value
 Mo Sold,sold_month
