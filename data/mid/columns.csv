@@ -45,12 +45,12 @@ Electrical,electrical_type
 1st Flr SF,floor_1_area
 2nd Flr SF,floor_2_area
 Low Qual Fin SF,floor_lowqual_total_area
-Gr Liv Area,ground_total_area
+Gr Liv Area,grd_total_area
 Bsmt Full Bath,bath_full_bsmt_num
 Bsmt Half Bath,bath_half_bsmt_num
-Full Bath,bath_full_bsmt_num
-Half Bath,bath_full_ground_num
-Bedroom AbvGr,bath_half_ground_num
+Full Bath,bath_full_grd_num
+Half Bath,bath_half_grd_num
+Bedroom AbvGr,bedroom_grd_num
 Kitchen AbvGr,kitchen_num
 Kitchen Qual,kitchen_qual
 TotRms AbvGrd,rooms_num
