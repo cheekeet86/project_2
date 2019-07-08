@@ -3,11 +3,11 @@
 ## Contents
 
 [Problem Statement](#Problem-Statement)
-[Data Cleaning] (#Data-Cleaning)
-[Exploratory Data Analysis] (#Exploratory-Data-Analysis)
-[Descriptive and Inferential Statistics] (#Descriptive-and-Inferential-Statistics)
-[Outside Research] (#Outside-Research)
-[Conclusions and Recommendations] (#Conclusions-and-Recommendations)
+[Data Cleaning](#Data-Cleaning)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+[Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
+[Outside Research](#Outside-Research)
+[Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ## Problem Statement
 
