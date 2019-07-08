@@ -20,7 +20,7 @@
 - The dataset contains information on residential properties sold in Ames (Iowa) from 2006 to 2010.
 - To develop a regression model to predict the sale prices of houses.
 - The model will be used by real estate agents to predict house prices.
-- Recommendations will provide insights to homeowners to perform home improvement to increase house prices.
+- Recommendations will provide insights for homeowners to increase house prices through home improvements.
 
 ## Data Cleaning
 
@@ -41,7 +41,3 @@ Blank
 ## Conclusions and Recommendations
 
 Blank
-
-
-
-
