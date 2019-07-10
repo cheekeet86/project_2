@@ -32,3 +32,78 @@
 - [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
 - [Outside Research](#Outside-Research)
 - [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+
+---------------------------------------------------------------------------------------------
+
+'020':'1-STORY 1946 & NEWER ALL STYLES',
+'030':'1-STORY 1945 & OLDER',
+'040':'1-STORY W/FINISHED ATTIC ALL AGES',
+'045':'1-1/2 STORY - UNFINISHED ALL AGES',
+'050':'1-1/2 STORY FINISHED ALL AGES',
+'060':'2-STORY 1946 & NEWER',
+'070':'2-STORY 1945 & OLDER',
+'075':'2-1/2 STORY ALL AGES',
+'080':'SPLIT OR MULTI-LEVEL',
+'085':'SPLIT FOYER',
+'090':'DUPLEX - ALL STYLES AND AGES',
+'120':'1-STORY PUD (Planned Unit Development) - 1946 & NEWER',
+'150':'1-1/2 STORY PUD - ALL AGES',
+'160':'2-STORY PUD - 1946 & NEWER',
+'180':'PUD - MULTILEVEL - INCL SPLIT LEV/FOYER',
+'190':'2 FAMILY CONVERSION - ALL STYLES AND AGES',
+
+
+
+'a (agr)':'Agriculture',
+'c (all)':'Commercial',
+'fv	Floating':'Village Residential',
+'i (all)':'Industrial',
+'rh':'Residential High Density',
+'rl':'Residential Low Density',
+'rk':'Residential Low Density Park',
+'rm':'Residential Medium Density'
+
+
+
+
+new_name
+sale_price                  1.000000
+house_qual                  0.803462
+grd_total_area              0.719463
+floor_1_area                0.648252
+year_built                  0.572405
+year_remodel                0.550872
+bath_full_grd_num           0.538225
+garage_year                 0.534514
+wall_area                   0.520023
+rooms_num                   0.509775
+fireplace_num               0.473783
+lot_frontage                0.355530
+porch_open_area             0.338545
+wooddeck_area               0.327629
+lot_area                    0.303744
+bath_half_grd_num           0.283372
+floor_2_area                0.248826
+bedroom_grd_num             0.137145
+porch_screen_area           0.134555
+porch_3season_area          0.048721
+sold_month                  0.032508
+pool_area                   0.025805
+misc_value                 -0.010323
+sold_year                  -0.015174
+floor_lowqual_total_area   -0.041608
+id                         -0.051416
+lot_subclass               -0.087331
+house_cond                 -0.097093
+kitchen_num                -0.125472
+porch_enclosed_area        -0.135713
+pid                        -0.255068
+
+
+
+
+StoneBr	Stone Brook
+
+NridgHt	Northridge Heights
+
+NoRidge	Northridge
