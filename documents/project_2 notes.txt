@@ -9,3 +9,26 @@
 [Outside Research](#Outside-Research)
 
 [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+
+---------------------------------------------------------------------------------------------
+
+- [Contents](#Contents)
+- [Problem Statement](#Problem-Statement)
+- [Importing](#Importing)
+- [Functions](#Functions)
+- [Inspect Data](#Inspect-Data)
+- [Clean Data](#Clean-Data)
+- [Output Clean Data](#Output-Clean-Data)
+- [Prepare Data](#Prepare-Data)
+- [EDA](#EDA)
+- [Pre-Modelling](#Pre-Modelling)
+- [LR Model (Exploratory)](#LR Model-(Exploratory))
+- [Create Feature Matrix and Target](#Create-Feature-Matrix-and-Target)
+- [LR Model (Polynomial)](#LR Model-(Polynomial))
+- [LR Model](#LR-Model)
+- [Ridge Model](#Ridge-Model)
+- [Lasso Model](#Lasso-Model)
+- [Output Model Predictions](#Output Model-Predictions)
+- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
+- [Outside Research](#Outside-Research)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
