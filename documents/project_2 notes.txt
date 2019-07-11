@@ -73,6 +73,7 @@ grd_total_area              0.719463
 floor_1_area                0.648252
 year_built                  0.572405
 year_remodel                0.550872
+
 bath_full_grd_num           0.538225
 garage_year                 0.534514
 wall_area                   0.520023
