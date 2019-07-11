@@ -13,8 +13,8 @@ Utilities,utilities_type,Dummy,Yes
 Lot Config,lot_config,Dummy,Yes
 Land Slope,land_slope,Dummy,Yes
 Neighborhood,neighborhood,Dummy,Yes
-Condition 1,cond_1,Set,
-Condition 2,cond_2,Set,
+Condition 1,cond_1,,
+Condition 2,cond_2,,
 Bldg Type,house_type,Dummy,Yes
 House Style,house_style,Dummy,Yes
 Overall Qual,house_qual,Dummy,Yes

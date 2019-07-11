@@ -1,13 +1,8 @@
 [Problem Statement](#Problem-Statement)
-
 [Data Cleaning](#Data-Cleaning)
-
 [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-
-[Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-
-[Outside Research](#Outside-Research)
-
+[Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics) 
+[Outside Research](#Outside-Research)    
 [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ---------------------------------------------------------------------------------------------
@@ -52,7 +47,7 @@
 '180':'PUD - MULTILEVEL - INCL SPLIT LEV/FOYER',
 '190':'2 FAMILY CONVERSION - ALL STYLES AND AGES',
 
-
+---------------------------------------------------------------------------------------------
 
 'a (agr)':'Agriculture',
 'c (all)':'Commercial',
@@ -63,11 +58,11 @@
 'rk':'Residential Low Density Park',
 'rm':'Residential Medium Density'
 
-
-
+---------------------------------------------------------------------------------------------
 
 new_name
 sale_price                  1.000000
+
 house_qual                  0.803462
 grd_total_area              0.719463
 floor_1_area                0.648252
@@ -79,16 +74,19 @@ garage_year                 0.534514
 wall_area                   0.520023
 rooms_num                   0.509775
 fireplace_num               0.473783
+
 lot_frontage                0.355530
 porch_open_area             0.338545
 wooddeck_area               0.327629
 lot_area                    0.303744
 bath_half_grd_num           0.283372
+
 floor_2_area                0.248826
 bedroom_grd_num             0.137145
 porch_screen_area           0.134555
 porch_3season_area          0.048721
 sold_month                  0.032508
+
 pool_area                   0.025805
 misc_value                 -0.010323
 sold_year                  -0.015174
@@ -102,15 +100,17 @@ pid                        -0.255068
 
 
 
+Id	id
+PID	pid
+Lot Frontage	lot_frontage
+Condition 1	cond_1
+Condition 2	cond_2
+Mas Vnr Area	wall_area
+Garage Yr Blt	garage_year
+---------------------------------------------------------------------------------------------
 
 StoneBr	Stone Brook
-
-NridgHt	Northridge Heights
-
+NridgHt	Northridge Height
 NoRidge	Northridge
-
-
-
-
 
 https://www.mapdevelopers.com/draw-circle-tool.php?circles=%5B%5B5000%2C42.0597732%2C-93.6494713%2C%22%2379AA77%22%2C%22%23FF0000%22%2C0%5D%5D

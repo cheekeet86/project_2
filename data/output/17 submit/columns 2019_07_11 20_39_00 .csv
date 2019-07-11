@@ -1,0 +1,82 @@
+,old_name,new_name,type,feature
+0,Id,id,,
+1,PID,pid,,
+2,MS SubClass,lot_subclass,Dummy,Yes
+3,MS Zoning,lot_zone,Dummy,Yes
+4,Lot Frontage,lot_frontage,,
+5,Lot Area,lot_area,Scale,Yes
+6,Street,access_road,Dummy,Yes
+7,Alley,access_alley,Dummy,Yes
+8,Lot Shape,lot_shape,Dummy,Yes
+9,Land Contour,land_contour,Dummy,Yes
+10,Utilities,utilities_type,Dummy,Yes
+11,Lot Config,lot_config,Dummy,Yes
+12,Land Slope,land_slope,Dummy,Yes
+13,Neighborhood,neighborhood,Dummy,Yes
+14,Condition 1,cond_1,Set,
+15,Condition 2,cond_2,Set,
+16,Bldg Type,house_type,Dummy,Yes
+17,House Style,house_style,Dummy,Yes
+18,Overall Qual,house_qual,Dummy,Yes
+19,Overall Cond,house_cond,Dummy,Yes
+20,Year Built,year_built,Scale,Yes
+21,Year Remod/Add,year_remodel,Scale,Yes
+22,Roof Style,roof_style,Dummy,Yes
+23,Roof Matl,roof_material,Dummy,Yes
+24,Exterior 1st,exterior_type1,Dummy,Yes
+25,Exterior 2nd,exterior_type2,Dummy,Yes
+26,Mas Vnr Type,wall_type,Dummy,Yes
+27,Mas Vnr Area,wall_area,,
+28,Exter Qual,exterior_qual,Dummy,Yes
+29,Exter Cond,exterior_cond,Dummy,Yes
+30,Foundation,foundation_type,Dummy,Yes
+31,Bsmt Qual,bsmt_qual,Dummy,Yes
+32,Bsmt Cond,bsmt_cond,Dummy,Yes
+33,Bsmt Exposure,bsmt_area,Dummy,Yes
+34,BsmtFin Type 1,bsmt_type1_score,Dummy,Yes
+35,BsmtFin SF 1,bsmt_type1_area,Scale,Yes
+36,BsmtFin Type 2,bsmt_type2_score,Dummy,Yes
+37,BsmtFin SF 2,bsmt_type2_area,Scale,Yes
+38,Bsmt Unf SF,bsmt_unfinish_area,Scale,Yes
+39,Total Bsmt SF,bsmt_total_area,Scale,Yes
+40,Heating,heating_type,Dummy,Yes
+41,Heating QC,heating_cond,Dummy,Yes
+42,Central Air,central_aircond,Dummy,Yes
+43,Electrical,electrical_type,Dummy,Yes
+44,1st Flr SF,floor_1_area,Scale,Yes
+45,2nd Flr SF,floor_2_area,Scale,Yes
+46,Low Qual Fin SF,floor_lowqual_total_area,Scale,Yes
+47,Gr Liv Area,grd_total_area,Scale,Yes
+48,Bsmt Full Bath,bath_full_bsmt_num,Scale,Yes
+49,Bsmt Half Bath,bath_half_bsmt_num,Scale,Yes
+50,Full Bath,bath_full_grd_num,Scale,Yes
+51,Half Bath,bath_half_grd_num,Scale,Yes
+52,Bedroom AbvGr,bedroom_grd_num,Scale,Yes
+53,Kitchen AbvGr,kitchen_num,Scale,Yes
+54,Kitchen Qual,kitchen_qual,Dummy,Yes
+55,TotRms AbvGrd,rooms_num,Scale,Yes
+56,Functional,house_fn,Dummy,Yes
+57,Fireplaces,fireplace_num,Scale,Yes
+58,Fireplace Qu,fireplace_score,Dummy,Yes
+59,Garage Type,garage_type,Dummy,Yes
+60,Garage Yr Blt,garage_year,,
+61,Garage Finish,garage_finish,Dummy,Yes
+62,Garage Cars,garage_car_num,Scale,Yes
+63,Garage Area,garage_area,Scale,Yes
+64,Garage Qual,garage_qual,Dummy,Yes
+65,Garage Cond,garage_cond,Dummy,Yes
+66,Paved Drive,driveway_type,Dummy,Yes
+67,Wood Deck SF,wooddeck_area,Scale,Yes
+68,Open Porch SF,porch_open_area,Scale,Yes
+69,Enclosed Porch,porch_enclosed_area,Scale,Yes
+70,3Ssn Porch,porch_3season_area,Scale,Yes
+71,Screen Porch,porch_screen_area,Scale,Yes
+72,Pool Area,pool_area,Scale,Yes
+73,Pool QC,pool_qual,Dummy,Yes
+74,Fence,fence_qual,Dummy,Yes
+75,Misc Feature,misc_feature,Dummy,Yes
+76,Misc Val,misc_value,Scale,Yes
+77,Mo Sold,sold_month,Date,
+78,Yr Sold,sold_year,Date,
+79,Sale Type,sale_type,Dummy,Yes
+80,SalePrice,sale_price,Target,
